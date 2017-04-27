@@ -1,5 +1,5 @@
 @XmlAccessorType(XmlAccessType.FIELD)
-package jaxb
+package com.blogspot.przybyszd.jaxbingroovy
 
 import javax.xml.bind.annotation.XmlAccessType
 import javax.xml.bind.annotation.XmlAccessorType
